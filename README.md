@@ -52,10 +52,11 @@
 
 ## 🌐 Conecta conmigo  
 
-📧 **Email:** [maxretana981@gmail.com](mailto:maxretana981@gmail.com)  
+📧 **Email:** [maxretana981@gmail.com](mailto:maxretana.dev@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/maxretana](https://www.linkedin.com/in/maxretana/)  
 📱 **Teléfono:** +52 312 302 5006  
 
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&fontSize=90)
+
